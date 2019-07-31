@@ -1,0 +1,46 @@
+.jumbotron {
+    background-image: url("/assets/images/burgers.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: 10px;
+}
+
+#title {
+    font-family: 'Zilla Slab Highlight', cursive;
+    color: white;
+}
+
+#newburger {
+    border-radius: 5px;
+}
+
+#sub-title {
+    font-family: 'Zilla Slab Highlight', cursive;
+    color: white;
+    font-size: 30px;
+}
+
+#heading {
+    color: orange;
+    font-family: 'Zilla Slab Highlight', cursive;
+
+}
+
+#lefthead {
+    background-color: #5cb85c;
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+#eatbutton, #trashbutton {
+    float: right;
+}
+
+#righthead {
+    background-color: rgb(214, 14, 14);
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+}
