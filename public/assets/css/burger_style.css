@@ -7,7 +7,6 @@
 }
 
 #title {
-    /* font-family: 'Zilla Slab Highlight', cursive; */
     font-family: 'Corben', cursive;
     color: rgb(255, 151, 32);
 }
@@ -17,7 +16,6 @@
 }
 
 #sub-title {
-    /* font-family: 'Zilla Slab Highlight', cursive; */
     font-family: 'Corben', cursive;
     color: rgb(255, 197, 111);
     font-size: 30px;
@@ -25,14 +23,13 @@
 
 #heading {
     color: white;
-    /* font-family: 'Zilla Slab Highlight', cursive; */
     font-family: 'Corben', cursive;
     font-size: 20px;
 
 }
 
 #lefthead {
-    background-color: #5cb85c;
+    background-color: #4da14d;
     color: white;
     text-align: center;
     font-size: 1.2em;
@@ -43,8 +40,20 @@
 }
 
 #righthead {
-    background-color: rgb(214, 14, 14);
+    background-color: rgb(214, 8, 8);
     color: white;
     text-align: center;
     font-size: 1.2em;
+}
+
+#trashbutton {
+    background-color: rgb(214, 8, 8);
+}
+
+#eatbutton {
+    background-color: rgb(255, 151, 32);
+}
+
+#addburger {
+    background-color: #4da14d;
 }
