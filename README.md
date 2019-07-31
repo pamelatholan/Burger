@@ -1,5 +1,5 @@
 # Eat the Burger
-Burger logger created with MySQL, Node, Express, Handlebars and a homemade ORM
+### Burger logger created with MySQL, Node, Express, Handlebars and a homemade ORM
 
 * Eat the Burger is a restaurant app that lets users input the names of burgers they'd like to eat.
 * Whenever a user submits a burger's name, the app will display the burger on the left side of the page -- waiting to be devoured.
@@ -7,4 +7,4 @@ Burger logger created with MySQL, Node, Express, Handlebars and a homemade ORM
 * The app will store every burger in a database, whether devoured or not.
 
 
-![Burger]()
+![Burger](https://github.com/pamelatholan/Burger/blob/master/public/assets/images/jumbotron.PNG)
