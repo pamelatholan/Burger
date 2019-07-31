@@ -2,7 +2,7 @@
   "name": "burger",
   "version": "1.0.0",
   "description": "Burger logger created with MySQL, Node, Express, Handlebars and a homemade ORM",
-  "main": "burger.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
