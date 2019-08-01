@@ -12,6 +12,7 @@ if (process.env.JAWSDB_URL) {
     password: process.env.DB_PASS,
     database: process.env.DB_NAME
 });
+};
 
 connection.connect(function(err) {
   if (err) {
