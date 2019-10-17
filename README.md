@@ -1,5 +1,7 @@
 # Eat the Burger
 
+![Burger](https://github.com/pamelatholan/Burger/blob/master/public/assets/images/jumbotron.PNG)
+
 Deployed on [Heroku](https://hidden-wildwood-57598.herokuapp.com/)
 
 * #### Eat the Burger is a restaurant app that lets users input the names of burgers they'd like to eat.
